@@ -1,0 +1,2 @@
+C:\我的初学代码\my-c\习题7\Debug\习题7.exe
+C:\我的初学代码\my-c\习题7\Debug\习题7.pdb

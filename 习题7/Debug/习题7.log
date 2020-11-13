@@ -1,0 +1,3 @@
+﻿  源.c
+C:\我的初学代码\my-c\习题7\源.c(8,14): warning C4047: “return”:“int”与“int (__cdecl *)(int)”的间接级别不同
+  习题7.vcxproj -> C:\我的初学代码\my-c\习题7\Debug\习题7.exe
