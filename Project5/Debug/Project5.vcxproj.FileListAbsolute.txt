@@ -1,0 +1,2 @@
+C:\我的初学代码\my-c\Project5\Debug\Project5.exe
+C:\我的初学代码\my-c\Project5\Debug\Project5.pdb

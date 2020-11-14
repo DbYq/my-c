@@ -69,7 +69,28 @@ int is_leap_year(int y)
 int main()
 {
 	int year = 0;
-	scanf("%d ", &year);
-	printf("%d ", is_leap_year(year));
+	scanf("%d", &year);
+	printf("%d是闰年 ", is_leap_year(year));
 	return 0;
 }
+//#include<stdio.h>
+//int year(int x) 
+//    {
+//        if ((x % 4 == 0 && x % 100 != 0) || (x % 400 == 0))
+//            return 1;
+//
+//        else
+//            return 0;
+//    }
+//int main()
+//{
+//    int a;
+//   
+//
+//    scanf("%d", &a);
+//    if (year(a) == 1)
+//        printf("是闰年\n");
+//    else
+//        printf("不是闰年\n");
+//
+//}
