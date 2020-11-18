@@ -98,7 +98,7 @@ int main()
     int N = 0, i = 1, Sn;
     double z = 0.0;
     scanf_s("%d", &N);
-    Sn = N + N*(N - 1);
+    Sn =2*N - 1;
     for (i = 1; i <= Sn; i += 2)
     {
         z = z + (1.0 / i);
