@@ -119,33 +119,33 @@
 //    printf("%lf", C);
 //    return 0;
 //}
-#include<stdio.h>
-int fact(int n)
-{
-    int i, num2 = 1;
-    for (i = 1; i <= n; i++)
-    {
-        num2 = num2 * i;
-    }
-    return num2;
-}
-int main()
-{
-    int m, n, i, num1 = 1, num3 = 1;
-    scanf_s("%d%d", &m, &n);
-    int C = 0;
-    for (i = 1; i <= m; i++)
-    {
-        num1 = num1 * i;
-    }
-    for (i = 1; i <= n - m; i++)
-    {
-        num3 = num3 * i;
-    }
-    C =fact(n)/(num1 * num3);
-    printf("%d\n", num3);
-    printf("%d\n", fact(n));
-    printf("%d\n", num1);
-    printf("%d", C);
-    return 0;
-}
+//#include<stdio.h>
+//int fact(int n)
+//{
+//    int i, num2 = 1;
+//    for (i = 1; i <= n; i++)
+//    {
+//        num2 = num2 * i;
+//    }
+//    return num2;
+//}
+//int main()
+//{
+//    int m, n, i, num1 = 1, num3 = 1;
+//    scanf_s("%d%d", &m, &n);
+//    int C = 0;
+//    for (i = 1; i <= m; i++)
+//    {
+//        num1 = num1 * i;
+//    }
+//    for (i = 1; i <= n - m; i++)
+//    {
+//        num3 = num3 * i;
+//    }
+//    C =fact(n)/(num1 * num3);
+//   /* printf("%d\n", num3);
+//    printf("%d\n", fact(n));
+//    printf("%d\n", num1);*/
+//    printf("%d", C);
+//    return 0;
+//}
