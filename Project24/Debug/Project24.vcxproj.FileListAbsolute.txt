@@ -1,0 +1,2 @@
+C:\我的初学代码\my-c\Project24\Debug\Project24.exe
+C:\我的初学代码\my-c\Project24\Debug\Project24.pdb
