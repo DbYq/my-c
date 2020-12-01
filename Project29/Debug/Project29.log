@@ -1,0 +1,3 @@
+﻿  源.c
+C:\我的初学代码\my-c\Project29\源.c(55,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  Project29.vcxproj -> C:\我的初学代码\my-c\Project29\Debug\Project29.exe
