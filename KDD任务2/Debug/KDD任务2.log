@@ -1,2 +1,4 @@
 ﻿  源.c
+C:\我的初学代码\my-c\KDD任务2\源.c(6,29): warning C4101: “num1”: 未引用的局部变量
+C:\我的初学代码\my-c\KDD任务2\源.c(6,34): warning C4101: “num2”: 未引用的局部变量
   KDD任务2.vcxproj -> C:\我的初学代码\my-c\KDD任务2\Debug\KDD任务2.exe
