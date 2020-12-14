@@ -40,265 +40,272 @@ int main()
 			break;
 		if (arr[i] == 'A')
 		{
-			arr[i] == 'a';
+			arr[i] = 'a';
 			continue;
 		}
 		if (arr[i] == 'B')
 		{
-			arr[i] == 'b';
+			arr[i] = 'b';
 			continue;
 		}
 		if (arr[i] == 'C')
 		{
-			arr[i] == 'c';
+			arr[i] = 'c';
 			continue;
 		}
 		if (arr[i] == 'D')
 		{
-			arr[i] == 'd';
+			arr[i] = 'd';
 			continue;
 		}
 		if (arr[i] == 'E')
 		{
-			arr[i] == 'e';
+			arr[i] = 'e';
 			continue;
 		}
 		if (arr[i] == 'F')
 		{
-			arr[i] == 'f';
+			arr[i] = 'f';
 			continue;
 		}
 		if (arr[i] == 'G')
 		{
-			arr[i] == 'g';
+			arr[i] = 'g';
 			continue;
 		}
 		if (arr[i] == 'H')
 		{
-			arr[i] == 'h';
+			arr[i] = 'h';
 			continue;
 		}
 		if (arr[i] == 'I')
 		{
-			arr[i] == 'i';
+			arr[i] = 'i';
 			continue;
 		}
 		if (arr[i] == 'J')
 		{
-			arr[i] == 'j';
+			arr[i] = 'j';
 			continue;
 		}
 		if (arr[i] == 'K')
 		{
-			arr[i] == 'k';
+			arr[i] = 'k';
 			continue;
 		}
 		if (arr[i] == 'L')
 		{
-			arr[i] == 'l';
+			arr[i] = 'l';
 			continue;
 		}
 		if (arr[i] == 'M')
 		{
-			arr[i] == 'm';
+			arr[i] = 'm';
 			continue;
 		}
 		if (arr[i] == 'N')
 		{
-			arr[i] == 'n';
+			arr[i] = 'n';
 			continue;
 		}
 		if (arr[i] == 'O')
 		{
-			arr[i] == 'o';
+			arr[i] = 'o';
 			continue;
 		}
 		if (arr[i] == 'P')
 		{
-			arr[i] == 'p';
+			arr[i] = 'p';
 			continue;
 		}
 		if (arr[i] == 'Q')
 		{
-			arr[i] == 'q';
+			arr[i] = 'q';
 			continue;
 		}
 		if (arr[i] == 'R')
 		{
-			arr[i] == 'r';
+			arr[i] = 'r';
 			continue;
 		}
 		if (arr[i] == 'S')
 		{
-			arr[i] == 's';
+			arr[i] = 's';
 			continue;
 		}
 		if (arr[i] == 'T')
 		{
-			arr[i] == 't';
+			arr[i] = 't';
 			continue;
 		}
 		if (arr[i] == 'U')
 		{
-			arr[i] == 'u';
+			arr[i] = 'u';
 			continue;
 		}
 		if (arr[i] == 'V')
 		{
-			arr[i] == 'v';
+			arr[i] = 'v';
 			continue;
 		}
 		if (arr[i] == 'W')
 		{
-			arr[i] == 'w';
+			arr[i] = 'w';
 			continue;
 		}
 		if (arr[i] == 'X')
 		{
-			arr[i] == 'x';
+			arr[i] = 'x';
 			continue;
 		}
 		if (arr[i] == 'Y')
 		{
-			arr[i] == 'y';
+			arr[i] = 'y';
 			continue;
 		}
 		if (arr[i] == 'Z')
 		{
-			arr[i] == 'z';
+			arr[i] = 'z';
 			continue;
 		}
 		if (arr[i] == 'a')
 		{
-			arr[i] == 'A';
+			arr[i] = 'A';
 			continue;
 		}
 		if (arr[i] == 'b')
 		{
-			arr[i] == 'B';
+			arr[i] = 'B';
 			continue;
 		}
 		if (arr[i] == 'c')
 		{
-			arr[i] == 'C';
+			arr[i] = 'C';
 			continue;
 		}
 		if (arr[i] == 'd')
 		{
-			arr[i] == 'D';
+			arr[i] = 'D';
 			continue;
 		}
 		if (arr[i] == 'e')
 		{
-			arr[i] == 'E';
+			arr[i] = 'E';
 			continue;
 		}
 		if (arr[i] == 'f')
 		{
-			arr[i] == 'F';
+			arr[i] = 'F';
 			continue;
 		}
 		if (arr[i] == 'g')
 		{
-			arr[i] == 'G';
+			arr[i] = 'G';
 			continue;
 		}
 		if (arr[i] == 'h')
 		{
-			arr[i] == 'H';
+			arr[i] = 'H';
 			continue;
 		}
 		if (arr[i] == 'i')
 		{
-			arr[i] == 'I';
+			arr[i] = 'I';
 			continue;
 		}
 		if (arr[i] == 'j')
 		{
-			arr[i] == 'J';
+			arr[i] = 'J';
 			continue;
 		}
 		if (arr[i] == 'k')
 		{
-			arr[i] == 'K';
+			arr[i] = 'K';
 			continue;
 		}
 		if (arr[i] == 'l')
 		{
-			arr[i] == 'L';
+			arr[i] = 'L';
 			continue;
 		}
 		if (arr[i] == 'm')
 		{
-			arr[i] == 'M';
+			arr[i] = 'M';
 			continue;
 		}
 		if (arr[i] == 'n')
 		{
-			arr[i] == 'N';
+			arr[i] = 'N';
 			continue;
 		}
 		if (arr[i] == 'o')
 		{
-			arr[i] == 'O';
+			arr[i] = 'O';
 			continue;
 		}
 		if (arr[i] == 'p')
 		{
-			arr[i] == 'P';
+			arr[i] = 'P';
 			continue;
 		}
 		if (arr[i] == 'q')
 		{
-			arr[i] == 'Q';
+			arr[i] = 'Q';
 			continue;
 		}
 		if (arr[i] == 'r')
 		{
-			arr[i] == 'R';
+			arr[i] = 'R';
 			continue;
 		}
 		if (arr[i] == 's')
 		{
-			arr[i] == 'S';
+			arr[i] = 'S';
 			continue;
 		}
 		if (arr[i] == 't')
 		{
-			arr[i] == 'T';
+			arr[i] = 'T';
 			continue;
 		}
 		if (arr[i] == 'u')
 		{
-			arr[i] == 'U';
+			arr[i] = 'U';
 			continue;
 		}
 		if (arr[i] == 'v')
 		{
-			arr[i] == 'V';
+			arr[i] = 'V';
 			continue;
 		}
 		if (arr[i] == 'w')
 		{
-			arr[i] == 'W';
+			arr[i] = 'W';
 			continue;
 		}
 		if (arr[i] == 'x')
 		{
-			arr[i] == 'X';
+			arr[i] = 'X';
 			continue;
 		}
 		if (arr[i] == 'y')
 		{
-			arr[i] == 'Y';
+			arr[i] = 'Y';
 			continue;
 		}
 		if (arr[i] == 'z')
 		{
-			arr[i] == 'Z';
+			arr[i] = 'Z';
 			continue;
 		}
+	}  
+	for (i = 0; i < 30; i++)
+	{
+		if (arr[i] == '#')
+		{
+			break;
+		}
+		printf("%c", arr[i]);
 	}
-	printf("%s", arr);  
 	return 0;
 }
