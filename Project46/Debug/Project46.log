@@ -1,0 +1,4 @@
+﻿  源.c
+C:\我的初学代码\my-c\Project46\源.c(13,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\我的初学代码\my-c\Project46\源.c(17,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project46.vcxproj -> C:\我的初学代码\my-c\Project46\Debug\Project46.exe
