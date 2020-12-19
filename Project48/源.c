@@ -60,10 +60,9 @@ struct friend
 	char name[11];
 	int bron;
 	char number[18];
-};
+} fre[11], fre1;
 int main()
 {
-	struct friend fre[11];
 	int n, i, j, min=0,k=100;
 	scanf("%d", &n);
 	for (i = 0; i < n; i++)
@@ -72,17 +71,19 @@ int main()
 	}
 	for (i = 0; i < n; i++)
 	{
-		int temp;
 		for (j = 0; j < n - 1 - i; j++)
 		{
 			if (fre[j].bron > fre[j + 1].bron)
 			{
-				temp = fre[j].bron;
-				fre[j].bron = fre[j + 1].bron;
-				fre[j + 1].bron = temp;
+				fre1 = fre[j];
+				fre[j] = fre[j + 1];
+				fre[j + 1] = fre1;
 			}
 		}
 	}
-	
+	for (i = 0; i < n; i++)
+	{
+		printf("%s %d %s\n", fre[i].name, fre[i].bron, fre[i].number);
+	}
 	return 0;
 }

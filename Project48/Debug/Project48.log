@@ -1,3 +1,2 @@
 ﻿  源.c
-C:\我的初学代码\my-c\Project48\源.c(25,8): warning C4013: “gets”未定义；假设外部返回 int
   Project48.vcxproj -> C:\我的初学代码\my-c\Project48\Debug\Project48.exe
