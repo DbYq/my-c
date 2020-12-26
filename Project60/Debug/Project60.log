@@ -1,0 +1,4 @@
+﻿  源.c
+C:\我的初学代码\my-c\Project60\源.c(82,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\我的初学代码\my-c\Project60\源.c(85,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project60.vcxproj -> C:\我的初学代码\my-c\Project60\Debug\Project60.exe
