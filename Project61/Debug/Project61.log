@@ -1,0 +1,5 @@
+﻿  源.c
+C:\我的初学代码\my-c\Project61\源.c(84,13): warning C4133: “函数”: 从“int [20]”到“char *”的类型不兼容
+C:\我的初学代码\my-c\Project61\源.c(84,16): warning C4133: “函数”: 从“int *”到“const char *”的类型不兼容
+C:\我的初学代码\my-c\Project61\源.c(108): warning C4716: “ArrayShift”: 必须返回一个值
+  Project61.vcxproj -> C:\我的初学代码\my-c\Project61\Debug\Project61.exe
