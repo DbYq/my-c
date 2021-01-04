@@ -1,0 +1,2 @@
+﻿test_1.4.obj : error LNK2019: 无法解析的外部符号 min，函数 main 中引用了该符号
+C:\我的初学代码\my-c\test_1.4\x64\Debug\test_1.4.exe : fatal error LNK1120: 1 个无法解析的外部命令

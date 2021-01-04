@@ -38,7 +38,7 @@ int main()
 			ShowContact(&con);
 			break;
 		case 6:
-			SortContact(&con);
+			//SortContact(&con);
 			break;
 		case 0:
 			printf("ÍË³öÍ¨Ñ¶Â¼£¡\n");
