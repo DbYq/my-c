@@ -1,11 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
-#define MAX 1000
+#define DEFULT_SZ 3
 #define MAX_NAME 20
 #define MAX_SEX 5
 #define MAX_TELEPHONE 12
 #define ADDERST 30
 #include <stdio.h>
 #include<string.h>
+#include<stdlib.h>
 struct people_inform
 {
 	char name[MAX_NAME];
@@ -17,8 +18,9 @@ struct people_inform
 //通讯录类型
 struct Contact
 {
-	struct people_inform date[MAX];//存放一个信息
+	struct people_inform *date;//存放一个信息
 	int sz;//记录当前已经存在的元素个数
+	int capacity;//当前通讯录的最大容量
 };
 //声明函数
 void InitContact(struct Contact* ps);
@@ -32,3 +34,5 @@ void SearchContact(const struct Contact* ps);
 void ModifyContact(struct Contact* ps);
 //显示通讯录
 void ShowContact(const struct Contact* ps);
+//销毁通讯录，释放内存
+void DestoryContact(struct Contact* ps);

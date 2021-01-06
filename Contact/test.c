@@ -41,6 +41,8 @@ int main()
 			//SortContact(&con);
 			break;
 		case 0:
+			//销毁通讯录，释放内存
+			DestoryContact(&con);
 			printf("退出通讯录！\n");
 			break;
 		default:
